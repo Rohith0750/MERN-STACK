@@ -1,3 +1,10 @@
+p {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 .card {
   width: 400px;
   border: 2px solid black;
